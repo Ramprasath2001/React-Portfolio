@@ -8,13 +8,13 @@ function About() {
       title: "MCA, SASTRA University",
       duration: "2022 – 2024",
       cgpa: "8.3",
-      description: "Master of Computer Applications with focus on full stack development.",
+      description: "Master of Computer Applications",
     },
     {
       title: "B.Sc Physics & B.Ed, SASTRA University",
       duration: "2018 – 2022",
       cgpa: "7.47",
-      description: "Bachelor of Science in Physics with integrated education degree.",
+      description: "Bachelor of Science in Physics with integrated education degree",
     },
   ];
 
